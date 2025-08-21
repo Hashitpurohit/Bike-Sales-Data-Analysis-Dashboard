@@ -1,8 +1,5 @@
 # Bike-Sales-Data-Analysis-Dashboard
-Absolutely! Here's the complete project description with a **Skills** section added at the end, maintaining your preferred format:
-
 ---
-
 ## 🎯 **𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕**
 
 In this project, I analyzed a dataset of potential **bike buyers** to uncover patterns, behavioral insights, and customer segments that can inform targeted **marketing strategies** and **sales optimization**. The dataset includes various demographic and lifestyle features such as **Gender, Age, Marital Status, Income, Occupation, Education, Region, Car Ownership, Home Ownership**, and the **Bike Purchase Decision**.
